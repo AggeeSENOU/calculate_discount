@@ -1,2 +1,2 @@
-# calculate_discount
-une application html, css, javascript simple pour effectuer des calculs 
+# Calculate Discount
+Une application web HTML, CSS, JavaScript simple pour effectuer des réductions sur des achats de pc  
